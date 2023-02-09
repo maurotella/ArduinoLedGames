@@ -1,5 +1,5 @@
 # ArduinoLedGames
-Progetto di Sistemi Embedded
+Progetto di Sistemi Embedded che porta un sistema in grado di far giocare a 3 minigiochi tramite l'utilizzo di 4 led con delle rispettive fotoresistenze. Il circuito, con anche l'eventuale simulazione (sconsigliata per la gestione delle fotoresistenze) è disponibile al seguente link: [Tinkercad](https://www.tinkercad.com/things/5BtaArf9GgU?sharecode=XZpf0lvjkRXBo49i21X9vVDXMpyeQTdTWDjt0rkrPhM)
 
 ## Hit That Led
 Obiettivo del gioco è coprire la fotoresistenza proposta dallo schermo lcd (numerate da 1 a 4) nel momento in cui il corrispettivo led è acceso. I led si accenderanno in sequenza, uno dopo l'altro. Man mano che si andrà avanti, la velocità di cambiamento tra un led e l'altro aumenterà.
